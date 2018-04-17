@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "curso js com tdd na pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laryro/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Laryssa Rocha <laryssa.vrocha@gmail.com> (https://github.com/laryro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laryro/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/laryro/js-tdd-course#readme"
+}
