@@ -4,6 +4,7 @@
   "description": "curso js com tdd na pratica",
   "main": "index.js",
   "scripts": {
+    "lint": ".\\node_modules\\.bin\\eslint .\\src\\main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/laryro/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/laryro/js-tdd-course#readme"
+  "homepage": "https://github.com/laryro/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
 }
