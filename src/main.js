@@ -6,3 +6,7 @@ function sum(partA, partB) {
 }
 
 sum(a, c);
+
+const sayMyName = name => console.log(name);
+
+sayMyName('larygo');
